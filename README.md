@@ -9,8 +9,8 @@ https://www.yell.com/biz/csharpmike-walsall-10027017/
 
 Business overview:
 
-For 2 years our Web Design company has been creating innovative web design solutions for businesses. We know what makes a website amazing, and we want yours to be too! 07915469982
-Here at Csharpmike we are a Microsoft House, and we provide the very best hi-tech Microsoft C Sharp solutions. Contact Us: 07915 469982
+For 2 years our Web Design company has been creating innovative web design solutions for businesses. We know what makes a website amazing, and we want yours to be too!
+Here at Csharpmike we are a Microsoft House, and we provide the very best hi-tech Microsoft C Sharp solutions.
 
 Mike is the owner and Sole Trader of Csharpmike, and he is the Microsoft C# MVC5 & Entity Framework 6 full stack website developer who develops all the software with a great passion for technology and the customers needs in mind.
 
